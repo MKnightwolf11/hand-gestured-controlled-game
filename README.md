@@ -1,1 +1,1 @@
-**# hand-gestured-controlled-game**
+hand-gestured-controlled-game
